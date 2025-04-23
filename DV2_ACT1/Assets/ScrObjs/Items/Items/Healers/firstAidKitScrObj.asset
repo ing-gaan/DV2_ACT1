@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb0a15f52dc26541b1f9e2709e03e4b, type: 3}
+  m_Name: firstAidKitScrObj
+  m_EditorClassIdentifier: 
+  _itemPrefab: {fileID: 5520349306864603564, guid: 16fc8853f8eae304ea2f2660614367eb, type: 3}
+  _icon: {fileID: 21300000, guid: 571e92575e1bd6648a6ec04e0f23afab, type: 3}
+  _itemUniqueName: FirstAidKit
+  _itemType: 0
+  _power: 50
+  _defaultIncrement: 1
+  _maxNumberInMagazine: 1
+  _collectSound: {fileID: 8300000, guid: bd7db84d47c22ed43b5782c3185d3690, type: 3}

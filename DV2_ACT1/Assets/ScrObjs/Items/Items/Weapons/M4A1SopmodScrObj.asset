@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95dd3e1074c54ec4e95a741f8613d456, type: 3}
+  m_Name: M4A1SopmodScrObj
+  m_EditorClassIdentifier: 
+  _itemPrefab: {fileID: 66351397508573401, guid: 9931562640ecfe041b516b612166d790, type: 3}
+  _icon: {fileID: 21300000, guid: 3db7d0712dd07b0468c2092abd14c3c1, type: 3}
+  _itemUniqueName: M4A1Sopmod
+  _itemType: 2
+  _power: 5
+  _defaultIncrement: 80
+  _maxNumberInMagazine: 40
+  _collectSound: {fileID: 8300000, guid: bd7db84d47c22ed43b5782c3185d3690, type: 3}
+  _rateOfFire: 20
+  _effectiveRange: 100
+  _shotSound: {fileID: 8300000, guid: a16dcd00c3576334d839f9542308ebd4, type: 3}
+  _shotEmptySound: {fileID: 8300000, guid: 85c98b453df38084f8fb9b6306a4c0bd, type: 3}
+  _reloadSound: {fileID: 8300000, guid: 58abc06422a6baf42b28f588f7242b18, type: 3}

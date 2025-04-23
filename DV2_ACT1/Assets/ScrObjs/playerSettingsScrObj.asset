@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee03ce6cd88547d43aa86a24795a4d55, type: 3}
+  m_Name: playerSettingsScrObj
+  m_EditorClassIdentifier: 
+  _walkSpeed: 10
+  _runSpeed: 20
+  _jumpSpeed: 5
+  _maxHealthLevel: 100
+  _maxShieldLevel: 100
+  _defaultWeapon: m1911

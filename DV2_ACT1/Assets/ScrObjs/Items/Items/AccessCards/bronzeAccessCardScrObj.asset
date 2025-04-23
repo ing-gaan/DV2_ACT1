@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7411d7a473f40aa488172fdac7fad96f, type: 3}
+  m_Name: bronzeAccessCardScrObj
+  m_EditorClassIdentifier: 
+  _itemPrefab: {fileID: 7539119082647051073, guid: b6c57b45b5711e54da928070272e4809, type: 3}
+  _icon: {fileID: 0}
+  _itemUniqueName: BronzeAccessCard
+  _itemType: 3
+  _power: 1
+  _defaultIncrement: 1
+  _maxNumberInMagazine: 1
+  _collectSound: {fileID: 8300000, guid: bd7db84d47c22ed43b5782c3185d3690, type: 3}
+  _securityAccessLevel: 1

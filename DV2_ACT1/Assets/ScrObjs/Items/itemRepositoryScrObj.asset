@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bdeee8fe269cc642a505e24fcf7a77b, type: 3}
+  m_Name: itemRepositoryScrObj
+  m_EditorClassIdentifier: 
+  _healers:
+  - {fileID: 11400000, guid: cebb5004f2b9ef443b3274c814367c48, type: 2}
+  _shields:
+  - {fileID: 11400000, guid: 4dc85842129f1fe4480552471935fc72, type: 2}
+  _weapons:
+  - {fileID: 11400000, guid: 3b9c2afcc51a57a478a996d1a6d98dd1, type: 2}
+  - {fileID: 11400000, guid: 1d57428ca94752d4e8184571b3fd4ef3, type: 2}
+  - {fileID: 11400000, guid: cc5a4c2b501422548ab1042cff2e267f, type: 2}
+  - {fileID: 11400000, guid: 241f41838d4d5f54196d5ba960dd340e, type: 2}
+  - {fileID: 11400000, guid: cfd1ac58835db2e439f82a3021fbce91, type: 2}
+  _accessCards:
+  - {fileID: 11400000, guid: 4ca7fb17d933a224eaa22f429f44bcab, type: 2}
+  - {fileID: 11400000, guid: 65f3ed8fb60f94c4391fe35c0990de8c, type: 2}
+  - {fileID: 11400000, guid: 525b931b8b3849549b929754b7ccaf9d, type: 2}
